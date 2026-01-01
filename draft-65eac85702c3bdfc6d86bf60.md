@@ -16,8 +16,6 @@ So I ran from it.
 
 Whenever cloud came up, I told myself I’d learn it “later”. I focused on what felt safer, what I already understood, and quietly avoided the thing that intimidated me the most.
 
-  
-
 ### **What I Thought Cloud Was**
 
 Before diving in, I want to reflect for a moment on how my fear shaped these assumptions.
@@ -36,11 +34,9 @@ At the same time, I had contradictory ideas about cost. I thought cloud was chea
 
 I believed backups weren’t necessary either. That once something was in the cloud, it was automatically safe. Almost as if you could upload something and it would just *automagically* work.
 
-  
-
 ### **What cloud actually is**
 
-According to IBM, “Cloud computing is on-demand access to computing resources —physical or virtual servers, data storage, networking capabilities, application development tools, software, AI-powered analytic platforms and more—over the internet with pay-per-use pricing.”
+*According to IBM,* [*“Cloud computing is on-demand access to computing resources —physical or virtual servers, data storage, networking capabilities, application development tools, software, AI-powered analytic platforms and more—over the internet with pay-per-use pricing.”*](https://www.ibm.com/think/topics/cloud-computing#:~:text=Cloud%20computing%20is%20on%2Ddemand%20access,the%20internet%20with%20pay%2Dper%2Duse%20pricing.)
 
 That definition was exactly what scared me.
 
@@ -50,19 +46,17 @@ But eventually, I found a way to debunk the concept of cloud for people like me.
 
 The explanation that finally clicked for me was this: **Cloud is like renting an apartment instead of building a house.**
 
-When you build a house, everything is your responsibility. You buy the land, pay for construction, handle electricity, plumbing, security, maintenance, and if something breaks, you fix it. It gives you full control, but it also comes with high upfront costs and constant responsibility.
+**When you build a house, everything is your responsibility**. You buy the land, pay for construction, handle electricity, plumbing, security, maintenance, and if something breaks, you fix it. It gives you full control, but it also comes with high upfront costs and constant responsibility.
 
 That’s how traditional, on‑premise computing works. You buy physical servers, set them up, maintain them, secure them, and upgrade them over time. It works, but it’s expensive, time‑consuming, and not very flexible.
 
-Renting an apartment, on the other hand, is different. You don’t own the building, but you get to live in it and use everything you need. You pay only for the space and utilities you use, and maintenance is handled by someone else. If you need a bigger place, you can move. If you need less, you can downsize.
+Renting an apartment, on the other hand, is different. You don’t own the building, but you get to live in it and use everything you need. **You pay only for the space and utilities you use**, and maintenance is handled by someone else. If you need a bigger place, you can move. If you need less, you can downsize.
 
 That’s what cloud computing feels like. Instead of buying and managing physical servers, you rent computing resources over the internet. You use virtual machines instead of physical ones, online storage instead of hard drives, and managed services instead of setting everything up yourself.
 
 You still have responsibilities, like configuring your resources, securing your applications, and managing costs, but you no longer have to worry about the physical infrastructure underneath. That part is taken care of for you.
 
 Once I understood cloud this way, it stopped feeling like an abstract concept and started feeling like something I could actually learn and use.
-
-  
 
 ### **When it started to make sense**
 
@@ -73,8 +67,6 @@ Once that realization clicked, I started asking myself important questions. If c
 I also wondered why we don’t talk about it more openly, or learn about it earlier. Cloud powers so much of the digital world, yet it often stays hidden behind interfaces and abstractions.
 
 That’s when I decided to stop avoiding it and start going deeper. Not because I suddenly knew everything, but because I finally understood that cloud wasn’t some foreign concept. It was already part of my everyday life.
-
-  
 
 ### **What helped me feel less scared**
 
@@ -90,8 +82,6 @@ Another big shift was letting go of information overload. With the number of res
 
 Instead of trying to consume everything, I learned to be intentional about what I studied and to focus on what mattered for where I was in my journey.
 
-  
-
 ### **What I’d tell someone who’s scared of cloud**
 
 If cloud computing scares you, my biggest advice is this: **Avoid information overload.**
@@ -102,7 +92,7 @@ Choose progress over perfection. You don’t need to master everything to get st
 
 Cloud isn’t magic. It’s infrastructure. And like any infrastructure, it has layers upon layers of depth. You don’t need to unravel all of them at once. Trust me, it will drive you insane.
 
-Instead, focus on small wins. Deploy something simple. Understand one service. Break things and learn why they broke.
+Instead, **focus on small wins.** Deploy something simple. Understand one service. Break things and learn why they broke.
 
 Start small, stay consistent, and let curiosity guide you.
 
