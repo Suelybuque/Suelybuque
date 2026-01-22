@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on building my GitHub profile and expanding my skills in Data Engineering.<br>👯 I’m looking to collaborate on Python, Data Engineering, and open-source projects.<br>🤝 I’m looking for help with best practices in Data Engineering and optimizing Python for large-scale data.<br>🌱 I’m currently learning Python for Data Engineering.<br>💬 Ask me about Computer Engineering, Women in Tech, and anything tech-related!<br>⚡ Fun fact: I love cooking, calisthenics & strength training, and storytelling—whether through code, words, or visuals!
+🔭 Currently building my GitHub profile while deepening my skills in Data Engineering and cloud technologies. <br>
+👯 Open to collaborating on Python, Data Engineering, and open-source projects that have real impact.<br>
+🤝 Always happy to learn from others — especially around best practices in Data Engineering and writing efficient, scalable Python.<br>
+🌱 Actively learning Python for Data Engineering, with a focus on practical, real-world use cases.<br>
+💬 Ask me about Computer Engineering, Women in Tech, cloud learning journeys, or anything tech-related.<br>
+⚡ Fun fact: I love cooking, calisthenics & strength training, and storytelling — whether through code, words, or visuals.<br>
 
 
 ## 🌐 Socials:
